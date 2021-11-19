@@ -1,5 +1,3 @@
-# vue-with-istanbul
-
 ## Project setup
 
 ```
